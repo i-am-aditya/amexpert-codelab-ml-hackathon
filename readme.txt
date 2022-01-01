@@ -1,11 +1,9 @@
-Name - K Aditya
-
 Tools and Technologies used - Python, Anaconda, Jupyter Notebook
 
 **Important**
 
 The detailed approach along with the conclusion is available in the .ipynb file
-named "K_Aditya_Notebook.ipynb". 
+named "Notebook.ipynb". 
 
 
 ML Algorithms used:
@@ -25,4 +23,3 @@ Feature Engineering:
 
 
 Performance Metric used (as per the challenge): Macro-F1 
-
